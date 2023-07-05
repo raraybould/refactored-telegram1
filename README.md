@@ -1,6 +1,6 @@
 # refactored-telegram1
 training repo
-## Github Getting Starte
+## Github Getting Started
 In this course, you will learn to use Github successfully.
 
 ### The basics
